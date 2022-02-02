@@ -1,0 +1,58 @@
+# IDE
+.vscode
+.idea/
+
+# Go prof output
+*.prof
+
+# Test files
+*.rlp
+
+# Go test output
+*/*.test
+*/*.out
+fuzzing/
+
+# Build output
+build
+dist
+
+# Dependencies
+vendor
+glide.lock
+
+# patches and diff files
+*.patch
+*.diff
+
+# gomobile compilation output
+*.aar
+*.jar
+
+# archives
+*.tar.gz
+*.tgz
+*.zip
+
+# photon project specific
+scripts/certs
+scripts/nodes
+scripts/peers.json
+scripts/docker/upx
+nodes
+peers.json
+certs
+sirius_*
+!*.go
+*.log
+*.graph
+*.gv
+*.finality
+
+# Backup copies
+*~
+*.bak
+
+.#*
+
+**/coverage.txt

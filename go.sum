@@ -37,8 +37,8 @@ github.com/DATA-DOG/go-sqlmock v1.3.3/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 h1:fLjPD/aNc3UIOA6tDi6QXUemppXK3P9BI7mr2hd6gx8=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
-github.com/TechPay-io/gevm v0.0.0-20220131092832-ffac20c065df h1:2l89R2VfyySp5NVbLHe4j6ci/zEzlZKQ6hTPNCFjdCI=
-github.com/TechPay-io/gevm v0.0.0-20220131092832-ffac20c065df/go.mod h1:AItrK6rpGqvJuNAK06OPjCgxS71WP1EmWbn/t9zAM/M=
+github.com/TechPay-io/go-ethereum v0.1.0 h1:pTai7S9EeYfRZC3PN0P9gYLi4ocM0lWJ9NeW695ZiWA=
+github.com/TechPay-io/go-ethereum v0.1.0/go.mod h1:AItrK6rpGqvJuNAK06OPjCgxS71WP1EmWbn/t9zAM/M=
 github.com/TechPay-io/sirius-base v0.0.0-20220125131912-8d06ca49f909 h1:qrv+wI1ydCwmS3swM7Ah0ILpeefWF5qd7hu5FNogcAo=
 github.com/TechPay-io/sirius-base v0.0.0-20220125131912-8d06ca49f909/go.mod h1:TL7SF2j92VUE20W2vOzvvrOrYXyT/D42nF9doDh8+tE=
 github.com/VictoriaMetrics/fastcache v1.5.7 h1:4y6y0G8PRzszQUYIQHHssv/jgPHAb5qQuuDNdCbyAgw=

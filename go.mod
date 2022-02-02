@@ -44,6 +44,6 @@ require (
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
 
-replace github.com/ethereum/go-ethereum => github.com/TechPay-io/go-ethereum v0.0.0-20220131092832-ffac20c065df
+replace github.com/ethereum/go-ethereum => github.com/TechPay-io/go-ethereum v0.1.0
 
 replace github.com/dvyukov/go-fuzz => github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f

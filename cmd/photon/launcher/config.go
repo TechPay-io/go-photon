@@ -91,7 +91,7 @@ var (
 	}
 
 	AllowedPhotonGenesisHashes = map[uint64]hash.Hash{
-		photon.MainNetworkID: hash.HexToHash("0x4a53c5445584b3bfc20dbfb2ec18ae20037c716f3ba2d9e1da768a9deca17cb4"),
+		photon.MainNetworkID: hash.HexToHash("0x8895b98d25c653773a31be420a6a29d322a10107e76dff37dc694ad02ebacd01"),
 		photon.TestNetworkID: hash.HexToHash("0xc4a5fc96e575a16a9a0c7349d44dc4d0f602a54e0a8543360c2fee4c3937b49e"),
 	}
 )

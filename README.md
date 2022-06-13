@@ -1,6 +1,7 @@
 # Photon 
 
 EVM-compatible chain secured by the Sirius consensus algorithm.
+With TechPay Photon, you can experience the [fastest blockchain](https://www.techpay.io/fastest-blockchain) transactions.
 
 ## Building the source
 
